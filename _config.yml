@@ -14,7 +14,7 @@ description              : &description "ME Graduate student @ UT Dallas"
 url                      : https://yajatvp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yajatvp/yajatvp.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  "yajat.jpg"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yajat Pandya"
-  avatar           : "profile.png"
+  avatar           : "yajat.jpg"
   bio              : "Mechanical Engineering Graduate Student @ UT Dallas. IIT KGP Aerospace Engineering, 2014-18"
   location         : "Dallas, TX"
   employer         :

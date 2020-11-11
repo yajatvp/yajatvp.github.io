@@ -12,8 +12,8 @@ I'm a graduate student in [Mechanical Engineering](https://me.utdallas.edu/) at 
 
 My interests
 ======
-1. Computational Fluid Dynamics
-1. Finite Difference Formulation
-1. Programming Algorithms
+1. Computational fluid dynamics
+1. Finite difference formulation
+1. Programming algorithms
 1. Automation of daily tasks
-1. Non-profit support
+1. Music theory and machine learning

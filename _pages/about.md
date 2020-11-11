@@ -10,10 +10,17 @@ redirect_from:
 
 I'm a graduate student in [Mechanical Engineering](https://me.utdallas.edu/) at The University of Texas at Dallas. I specialize in incompressible fluid flows and related computational algorithms to gain insights on underlying flow physics. I graduated from the Indian Institute of Technology, Kharagpur with Bachelors in [Aerospace Engineering](http://www.ae.iitkgp.ac.in/). During my past 2+ years of working as a Research Assistant, I conducted experimental field trips to investigate marine aerosol transport using doppler wind LiDARs. I love fluid dynamics and its applications to modern engineering problems. I also paint, sketch on my friends/family birthdays, play the guitar and volunteer as an Assistant Technology Director for [Dallas Pets Alive!](https://dallaspetsalive.org/).
 
-My interests
+My 5 primary interests
 ======
 1. Computational fluid dynamics
-1. Finite difference formulation
-1. Programming algorithms
+1. Atmospheric flows (aerosol transport)
+1. Software and algorithms
 1. Automation of daily tasks
-1. Music theory and machine learning
+1. Astrophysics and human evolution
+
+My 4 favourite videos
+======
+1. [The logistic map connects fluid convection, neuron firing, the Mandelbrot set and so much more.](https://youtu.be/ovJcsL7vyrk) 
+1. [Fast Hacks #6 - Laser Spy Microphone](https://youtu.be/K-96dX8ltO8)
+1. [A Brief History of Quantum Mechanics - with Sean Carroll](https://youtu.be/5hVmeOCJjOU)
+1. [Alpha Zero's "Immortal Zugzwang Game" against Stockfish](https://youtu.be/lFXJWPhDsSY)

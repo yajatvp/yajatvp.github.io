@@ -10,6 +10,8 @@ redirect_from:
 
 I'm a graduate student in [Mechanical Engineering](https://me.utdallas.edu/) at The University of Texas at Dallas. I specialize in incompressible fluid flows and related computational algorithms to gain insights on underlying flow physics. I graduated from the Indian Institute of Technology, Kharagpur with Bachelors in [Aerospace Engineering](http://www.ae.iitkgp.ac.in/). During my past 2+ years of working as a Research Assistant, I conducted experimental field trips to investigate marine aerosol transport using doppler wind LiDARs. I love fluid dynamics and its applications to modern engineering problems. I also paint, sketch on my friends/family birthdays, play the guitar and volunteer as an Assistant Technology Director for [Dallas Pets Alive!](https://dallaspetsalive.org/).
 
+This website contains information about my education, projects, skills (all of which are avaliable in my resume), my professional and personal interests, and links to other platforms.
+
 My 5 primary interests
 ======
 1. Computational fluid dynamics
